@@ -1,4 +1,5 @@
 print('coding is good')
+print("hi")
 print('Hello World.')
 print("hello")
 print('skylar')
